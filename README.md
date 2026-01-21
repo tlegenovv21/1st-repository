@@ -13,13 +13,10 @@ I am a Cybersecurity student at **Astana IT University** in Astana, Kazakhstan. 
 
 ### Security & Networking
 * 🔒 **Network Analysis:** Wireshark, Linux, Threat Analysis
-* 🛡️ **Platforms:** TryHackMe (Pre-Security Path)
+* 🛡️ **Platforms:** TryHackMe
 * 📡 **Networking:** Device Configuration, TCP/UDP, IP Addressing (Cisco)
 
 ### Certifications & Achievements
 * 📜 **Cisco:** Cybersecurity Essentials, Networking Basics
 * 🤖 **Huawei:** Artificial Intelligence and Applications
 * 🏆 **SpaceHack 2024:** Team Leader (Aerospace Engineering concepts)
-
----
-[Check out my repositories below 👇]
